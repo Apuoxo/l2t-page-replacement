@@ -1,0 +1,45 @@
+# Compiled output
+vmsim
+*.o
+*.exe
+*.out
+
+# Temporary files
+*.tmp
+*.log
+*.aux
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Trace files (large, not needed in repo)
+*.txt
+*.csv
+*.trace
+!README.md
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Latex output
+*.pdf
+*.dvi
+
+# Python cache
+__pycache__/
+*.py[cod]
